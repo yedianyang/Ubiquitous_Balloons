@@ -6,4 +6,4 @@ const int mqtt_port = 1883;
 const char* mqtt_user = "******";
 const char* mqtt_password = "******";
 
-const char* device_id = "****";
+const char* device_id = "1234";
