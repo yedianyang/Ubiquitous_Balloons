@@ -3,10 +3,6 @@
 #include <Wire.h>
 #include "config.h"
 
-// Replace the next variables with your SSID/Password combination
-//const char* ssid = "yellowSub";
-//const char* password = "Protools1234";
-//const char* mqtt_server = "10.0.0.45";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
